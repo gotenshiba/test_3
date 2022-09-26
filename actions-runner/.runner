@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-QEGAGHJ",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/jebZPysvZEWIhOkXOhVpUveF4a0pjBUI5ID7XWBisW3LdqwWZX",
+  "gitHubUrl": "https://github.com/gotenshiba/test_3",
+  "workFolder": "_work"
+}
