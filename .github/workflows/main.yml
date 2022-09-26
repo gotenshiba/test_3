@@ -7,7 +7,7 @@ on:
 
 jobs:
   job1:
-    runs-on: [ self-hosted ]
+    runs-on: [ self-hosted, test-label ]
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
